@@ -1,5 +1,7 @@
 # 🐶 WebAR Puppy Experience
 
+**[👉 Try WebAR Puppy Live Demo](https://reliable-melba-93be87.netlify.app/)**
+
 ## Project Overview
 
 WebAR Puppy is an immersive augmented reality (AR) web experience that brings a virtual 3D puppy into your real-world environment. Using just a web browser and device camera, users can interact with a friendly 3D puppy model positioned over a target image, rotate it with touch/mouse gestures, and discover additional information through interactive AR panels that appear on either side of the model.
